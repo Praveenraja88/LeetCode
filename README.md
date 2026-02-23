@@ -29,8 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Praveenraja88/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Praveenraja88/LeetCode/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Praveenraja88/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Praveenraja88/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Praveenraja88/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
