@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Praveenraja88/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Praveenraja88/LeetCode/tree/master/0048-rotate-image) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Praveenraja88/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Praveenraja88/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenraja88/LeetCode/tree/master/0054-spiral-matrix) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Praveenraja88/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Binary Search
 |  |
 | ------- |
