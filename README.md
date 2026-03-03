@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Praveenraja88/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Praveenraja88/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Praveenraja88/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Praveenraja88/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenraja88/LeetCode/tree/master/0054-spiral-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Praveenraja88/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Praveenraja88/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Binary Search
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praveenraja88/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Praveenraja88/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Praveenraja88/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Praveenraja88/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
