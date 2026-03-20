@@ -87,4 +87,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveenraja88/LeetCode/tree/master/0053-maximum-subarray) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Praveenraja88/LeetCode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+## Memoization
+|  |
+| ------- |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Praveenraja88/LeetCode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 <!---LeetCode Topics End-->
