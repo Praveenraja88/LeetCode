@@ -1,0 +1,32 @@
+class Solution {
+    public int numOfSubarrays(int[] arr, int k, int t) {
+        
+
+        int n = arr.length;
+        int cnt = 0 , sum = 0;
+
+        for(int i=0;i<k;i++)
+        {
+            sum+=arr[i];
+            
+        }
+
+        if(sum/k >= t)
+            {
+                cnt++;
+            }
+
+
+        for(int i=k;i<n;i++)
+        {
+            sum = sum + arr[i] - arr[i-k];
+            if(sum/k >= t)
+            {
+                cnt++;
+            }
+        }
+
+        return cnt ;
+
+    }
+}
