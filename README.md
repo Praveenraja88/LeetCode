@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Praveenraja88/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Praveenraja88/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Praveenraja88/LeetCode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenraja88/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Praveenraja88/LeetCode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Praveenraja88/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praveenraja88/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Praveenraja88/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Praveenraja88/LeetCode/tree/master/0525-contiguous-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Praveenraja88/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Praveenraja88/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveenraja88/LeetCode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,5 +177,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Praveenraja88/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
