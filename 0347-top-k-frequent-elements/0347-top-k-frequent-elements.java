@@ -1,6 +1,8 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
 
+        int n = nums.length;
+
         Map<Integer,Integer> map = new HashMap<>();
 
         for(int num : nums )
@@ -8,24 +10,21 @@ class Solution {
             map.put(num,map.getOrDefault(num,0)+1);
         }
 
-        PriorityQueue<Integer> maxheap = new PriorityQueue<>((a,b)-> map.get(b) - map.get(a)) ;
+        PriorityQueue<Integer> maxheap = new PriorityQueue((a,b)-> map.get(b) - map.get(a));
 
         for(int key : map.keySet())
         {
-            maxheap.offer(key);
+            maxheap.add(key);
         }
 
-        int[] ans = new int[k];
+        int[] arr = new int[k];
 
         for(int i=0;i<k;i++)
         {
-            ans[i] = maxheap.poll();
+            arr[i] = maxheap.poll();
         }
 
-        return ans ;
-
-
-
-
+        return arr ;
+        
     }
 }
