@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Praveenraja88/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1732-find-the-highest-altitude](https://github.com/Praveenraja88/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Praveenraja88/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Praveenraja88/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praveenraja88/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenraja88/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Praveenraja88/LeetCode/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Praveenraja88/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
 | ------- |
