@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Praveenraja88/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Praveenraja88/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praveenraja88/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Praveenraja88/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/Praveenraja88/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Praveenraja88/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Praveenraja88/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praveenraja88/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Praveenraja88/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/Praveenraja88/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Praveenraja88/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Praveenraja88/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Praveenraja88/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praveenraja88/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Praveenraja88/LeetCode/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Praveenraja88/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
