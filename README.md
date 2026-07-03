@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Praveenraja88/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Praveenraja88/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Praveenraja88/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Praveenraja88/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Praveenraja88/LeetCode/tree/master/0048-rotate-image) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Praveenraja88/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Praveenraja88/LeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Praveenraja88/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Praveenraja88/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
