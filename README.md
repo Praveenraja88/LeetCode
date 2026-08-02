@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Praveenraja88/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Praveenraja88/LeetCode/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Praveenraja88/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Praveenraja88/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praveenraja88/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Praveenraja88/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Praveenraja88/LeetCode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Praveenraja88/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveenraja88/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveenraja88/LeetCode/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Praveenraja88/LeetCode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Memoization
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praveenraja88/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
