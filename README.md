@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Praveenraja88/LeetCode/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Praveenraja88/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Praveenraja88/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praveenraja88/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveenraja88/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Praveenraja88/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Praveenraja88/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praveenraja88/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Praveenraja88/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveenraja88/LeetCode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Praveenraja88/LeetCode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Memoization
 |  |
@@ -240,4 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
