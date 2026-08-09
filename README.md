@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Praveenraja88/LeetCode/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Praveenraja88/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Praveenraja88/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Praveenraja88/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveenraja88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Praveenraja88/LeetCode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Praveenraja88/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Praveenraja88/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveenraja88/LeetCode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Praveenraja88/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Praveenraja88/LeetCode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Memoization
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenraja88/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Praveenraja88/LeetCode/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Praveenraja88/LeetCode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Praveenraja88/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
@@ -244,14 +248,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Praveenraja88/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Praveenraja88/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Praveenraja88/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Praveenraja88/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praveenraja88/LeetCode/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
